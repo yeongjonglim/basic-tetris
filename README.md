@@ -1,6 +1,6 @@
 # Tetris Game based on Vanilla Javascript
 
-A very simply Tetris Game with no external Javascript libraries.
+A very simple Tetris Game with no external Javascript libraries.
 
 ## Getting Started
 
